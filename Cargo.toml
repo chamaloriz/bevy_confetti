@@ -1,0 +1,18 @@
+[package]
+name = "bevy_confetti"
+version = "0.17.0"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+description = "A simple Bevy confetti crate."
+readme = "README.md"
+categories = ["rendering"]
+keywords = ["bevy", "rendering"]
+homepage = "https://github.com/chamaloriz/bevy_confetti"
+repository = "https://github.com/chamaloriz/bevy_confetti"
+exclude = [
+    "assets/*",
+]
+
+[dependencies]
+bevy = "0.17.3"
+rand = "0.9.2"
