@@ -18,4 +18,5 @@ The `main` branch is compatible with the latest Bevy release.
 
 | `bevy_confetti` | `bevy` |
 | :--           | :--    |
+| `0.18`        | `0.18` |
 | `0.17`        | `0.17` |
