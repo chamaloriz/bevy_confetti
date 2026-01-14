@@ -9,7 +9,7 @@ For a more complex particle system checkout [bevy_hanabi](https://github.com/dje
 
 ```bash
 # To compile the example
-cargo run --example 2D
+cargo run --example 2d
 ```
 
 ## Compatible Bevy versions
